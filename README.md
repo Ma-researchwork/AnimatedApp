@@ -12,7 +12,9 @@ AnimatedApp is an iOS application designed for exploring and analyzing single-ce
 
 - Explore single-cell RNA-seq datasets across various plant species.
 - Navigate through different analysis categories:
-  - **Data Exploration**: Visualize and explore basic data statistics.
-  - **Data Integration**: Combine data from multiple experiments or conditions.
+  - **Research Papers & News**: Stay updated with the latest research and highlights in plant single-cell studies.
+  - **Single-Cell Tools**: Access a curated list of tools for data exploration and integration.
   - **Advanced Analysis**: Perform advanced analyses like differential expression and trajectory inference.
 - Interactive animations and a modern UI design for a seamless experience.
+
+---
