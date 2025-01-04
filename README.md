@@ -18,3 +18,11 @@ AnimatedApp is an iOS application designed for exploring and analyzing single-ce
 - Interactive animations and a modern UI design for a seamless experience.
 
 ---
+
+## Current UI Screenshot
+
+Here’s how the app currently looks:
+
+![App Screenshot](view.png)
+
+---
