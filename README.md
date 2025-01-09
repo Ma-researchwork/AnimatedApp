@@ -4,7 +4,7 @@
 ![SwiftUI](https://img.shields.io/badge/UI-SwiftUI-green)
 
 
-**Single Cell Database iOS Application**
+**Single Cell iOS Application**
 
 AnimatedApp is an iOS application designed for exploring and analyzing single-cell datasets. This app can be future downloaded from Apple Store, it uses Swift and SwiftUI to deliver an interactive and visually appealing user experience.
 
